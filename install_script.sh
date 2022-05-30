@@ -7,3 +7,5 @@ chmod +x clean.sh
 echo -e "wtc" | sudo -S  mv clean.sh /bin
 
 echo "Done!!"
+
+rm ./install_script.sh
